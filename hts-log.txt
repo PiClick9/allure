@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Jun 2026 13:56:50 at https://www.allure.com/story/ariana-grande-red-lipstick-2023 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.allure.com/story/ariana-grande-red-lipstick-2023 -O1 "C:\clone\allure" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:58:22	Error: 	Exit requested by shell or user
+13:58:23	Warning: 	File not added due to mirror cancel: https://media.allure.com/photos/64ef8a28efb7443b259c8757/master/w_1600%2Cc_limit/Kayla%2520Greaves%2520Brown%2520Lip%2520Liner%25201.JPG
+13:58:27	Error: 	Exit requested by shell or user
+13:58:27	Error: 	"" (-1) at link https://www.allure.com/story/joey-king-polka-dot-lady-bug-french-manicure (from https://www.allure.com/story/ariana-grande-red-lipstick-2023)
+13:58:27	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 113 links scanned, 111 files written (64647831 bytes overall) [16905417 bytes received at 174282 bytes/sec], 57411695 bytes transferred using HTTP compression in 76 files, ratio 16%, 6.2 requests per connection
+(4 errors, 1 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

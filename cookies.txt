@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.allure.com	TRUE	/	FALSE	1999999999	xid1	1
+.allure.com	TRUE	/	FALSE	1999999999	CN_segments	co.w2624
+.allure.com	TRUE	/	FALSE	1999999999	CN_geo_country_code	KR
+.allure.com	TRUE	/	FALSE	1999999999	CN_xid_refresh	4e41ae63-dae8-49a6-83e2-c719d4d35aa1
+.allure.com	TRUE	/	FALSE	1999999999	CN_xid	4e41ae63-dae8-49a6-83e2-c719d4d35aa1
+www.allure.com	TRUE	/	FALSE	1999999999	SameSite	None
+
